@@ -1,0 +1,24 @@
+Exercises:
+
+Choose the theme of the site (advertising, services, organizations,
+ page of the department or faculty, music group, party, medical theme, social, 
+ event (festival, conference), locations of your city). 
+ Think about the design of the page and the positioning of the content. 
+ You can use the paper for draft. Then write the html and css code for your page.
+
+All the content must be positioned logically, neatly and proficiently.
+
+Next elements are obligatory for your task:
+
+1. Create a common page layout with a header at the top, two columns in the centre, 
+and a footer at the bottom. You can use tags <header>, <section>, <aside>, and <footer>
+
+2. For your web page use all possible positioning properties.
+
+3. Use the image as the element of the background.
+
+4. Use pseudo-classes (for example, to style links and buttons).
+
+5. Include form
+
+6. Add columns to position text
